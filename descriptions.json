@@ -30,8 +30,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/001.png",
-      "thumbnail": "/pokedex/thumbnails/001.png"
+      "image": "/images/001.png",
+      "thumbnail": "/thumbnails/001.png"
     }
   },
   {
@@ -65,8 +65,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/002.png",
-      "thumbnail": "/pokedex/thumbnails/002.png"
+      "image": "/images/002.png",
+      "thumbnail": "/thumbnails/002.png"
     }
   },
   {
@@ -100,8 +100,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/003.png",
-      "thumbnail": "/pokedex/thumbnails/003.png"
+      "image": "/images/003.png",
+      "thumbnail": "/thumbnails/003.png"
     }
   },
   {
@@ -135,8 +135,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/004.png",
-      "thumbnail": "/pokedex/thumbnails/004.png"
+      "image": "/images/004.png",
+      "thumbnail": "/thumbnails/004.png"
     }
   },
   {
@@ -170,8 +170,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/005.png",
-      "thumbnail": "/pokedex/thumbnails/005.png"
+      "image": "/images/005.png",
+      "thumbnail": "/thumbnails/005.png"
     }
   },
   {
@@ -205,8 +205,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/006.png",
-      "thumbnail": "/pokedex/thumbnails/006.png"
+      "image": "/images/006.png",
+      "thumbnail": "/thumbnails/006.png"
     }
   },
   {
@@ -240,8 +240,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/007.png",
-      "thumbnail": "/pokedex/thumbnails/007.png"
+      "image": "/images/007.png",
+      "thumbnail": "/thumbnails/007.png"
     }
   },
   {
@@ -275,8 +275,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/008.png",
-      "thumbnail": "/pokedex/thumbnails/008.png"
+      "image": "/images/008.png",
+      "thumbnail": "/thumbnails/008.png"
     }
   },
   {
@@ -310,8 +310,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/009.png",
-      "thumbnail": "/pokedex/thumbnails/009.png"
+      "image": "/images/009.png",
+      "thumbnail": "/thumbnails/009.png"
     }
   },
   {
@@ -345,8 +345,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/010.png",
-      "thumbnail": "/pokedex/thumbnails/010.png"
+      "image": "/images/010.png",
+      "thumbnail": "/thumbnails/010.png"
     }
   },
   {
@@ -377,8 +377,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/011.png",
-      "thumbnail": "/pokedex/thumbnails/011.png"
+      "image": "/images/011.png",
+      "thumbnail": "/thumbnails/011.png"
     }
   },
   {
@@ -412,8 +412,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/012.png",
-      "thumbnail": "/pokedex/thumbnails/012.png"
+      "image": "/images/012.png",
+      "thumbnail": "/thumbnails/012.png"
     }
   },
   {
@@ -447,8 +447,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/013.png",
-      "thumbnail": "/pokedex/thumbnails/013.png"
+      "image": "/images/013.png",
+      "thumbnail": "/thumbnails/013.png"
     }
   },
   {
@@ -479,8 +479,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/014.png",
-      "thumbnail": "/pokedex/thumbnails/014.png"
+      "image": "/images/014.png",
+      "thumbnail": "/thumbnails/014.png"
     }
   },
   {
@@ -514,8 +514,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/015.png",
-      "thumbnail": "/pokedex/thumbnails/015.png"
+      "image": "/images/015.png",
+      "thumbnail": "/thumbnails/015.png"
     }
   },
   {
@@ -550,8 +550,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/016.png",
-      "thumbnail": "/pokedex/thumbnails/016.png"
+      "image": "/images/016.png",
+      "thumbnail": "/thumbnails/016.png"
     }
   },
   {
@@ -586,8 +586,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/017.png",
-      "thumbnail": "/pokedex/thumbnails/017.png"
+      "image": "/images/017.png",
+      "thumbnail": "/thumbnails/017.png"
     }
   },
   {
@@ -622,8 +622,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/018.png",
-      "thumbnail": "/pokedex/thumbnails/018.png"
+      "image": "/images/018.png",
+      "thumbnail": "/thumbnails/018.png"
     }
   },
   {
@@ -658,8 +658,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/019.png",
-      "thumbnail": "/pokedex/thumbnails/019.png"
+      "image": "/images/019.png",
+      "thumbnail": "/thumbnails/019.png"
     }
   },
   {
@@ -694,8 +694,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/020.png",
-      "thumbnail": "/pokedex/thumbnails/020.png"
+      "image": "/images/020.png",
+      "thumbnail": "/thumbnails/020.png"
     }
   },
   {
@@ -729,8 +729,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/021.png",
-      "thumbnail": "/pokedex/thumbnails/021.png"
+      "image": "/images/021.png",
+      "thumbnail": "/thumbnails/021.png"
     }
   },
   {
@@ -764,8 +764,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/022.png",
-      "thumbnail": "/pokedex/thumbnails/022.png"
+      "image": "/images/022.png",
+      "thumbnail": "/thumbnails/022.png"
     }
   },
   {
@@ -800,8 +800,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/023.png",
-      "thumbnail": "/pokedex/thumbnails/023.png"
+      "image": "/images/023.png",
+      "thumbnail": "/thumbnails/023.png"
     }
   },
   {
@@ -836,8 +836,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/024.png",
-      "thumbnail": "/pokedex/thumbnails/024.png"
+      "image": "/images/024.png",
+      "thumbnail": "/thumbnails/024.png"
     }
   },
   {
@@ -874,8 +874,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/025.png",
-      "thumbnail": "/pokedex/thumbnails/025.png"
+      "image": "/images/025.png",
+      "thumbnail": "/thumbnails/025.png"
     }
   },
   {
@@ -909,8 +909,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/026.png",
-      "thumbnail": "/pokedex/thumbnails/026.png"
+      "image": "/images/026.png",
+      "thumbnail": "/thumbnails/026.png"
     }
   },
   {
@@ -944,8 +944,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/027.png",
-      "thumbnail": "/pokedex/thumbnails/027.png"
+      "image": "/images/027.png",
+      "thumbnail": "/thumbnails/027.png"
     }
   },
   {
@@ -979,8 +979,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/028.png",
-      "thumbnail": "/pokedex/thumbnails/028.png"
+      "image": "/images/028.png",
+      "thumbnail": "/thumbnails/028.png"
     }
   },
   {
@@ -1015,8 +1015,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/029.png",
-      "thumbnail": "/pokedex/thumbnails/029.png"
+      "image": "/images/029.png",
+      "thumbnail": "/thumbnails/029.png"
     }
   },
   {
@@ -1054,8 +1054,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/030.png",
-      "thumbnail": "/pokedex/thumbnails/030.png"
+      "image": "/images/030.png",
+      "thumbnail": "/thumbnails/030.png"
     }
   },
   {
@@ -1090,8 +1090,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/031.png",
-      "thumbnail": "/pokedex/thumbnails/031.png"
+      "image": "/images/031.png",
+      "thumbnail": "/thumbnails/031.png"
     }
   },
   {
@@ -1126,8 +1126,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/032.png",
-      "thumbnail": "/pokedex/thumbnails/032.png"
+      "image": "/images/032.png",
+      "thumbnail": "/thumbnails/032.png"
     }
   },
   {
@@ -1165,8 +1165,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/033.png",
-      "thumbnail": "/pokedex/thumbnails/033.png"
+      "image": "/images/033.png",
+      "thumbnail": "/thumbnails/033.png"
     }
   },
   {
@@ -1201,8 +1201,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/034.png",
-      "thumbnail": "/pokedex/thumbnails/034.png"
+      "image": "/images/034.png",
+      "thumbnail": "/thumbnails/034.png"
     }
   },
   {
@@ -1240,8 +1240,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/035.png",
-      "thumbnail": "/pokedex/thumbnails/035.png"
+      "image": "/images/035.png",
+      "thumbnail": "/thumbnails/035.png"
     }
   },
   {
@@ -1276,8 +1276,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/036.png",
-      "thumbnail": "/pokedex/thumbnails/036.png"
+      "image": "/images/036.png",
+      "thumbnail": "/thumbnails/036.png"
     }
   },
   {
@@ -1311,8 +1311,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/037.png",
-      "thumbnail": "/pokedex/thumbnails/037.png"
+      "image": "/images/037.png",
+      "thumbnail": "/thumbnails/037.png"
     }
   },
   {
@@ -1346,8 +1346,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/038.png",
-      "thumbnail": "/pokedex/thumbnails/038.png"
+      "image": "/images/038.png",
+      "thumbnail": "/thumbnails/038.png"
     }
   },
   {
@@ -1385,8 +1385,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/039.png",
-      "thumbnail": "/pokedex/thumbnails/039.png"
+      "image": "/images/039.png",
+      "thumbnail": "/thumbnails/039.png"
     }
   },
   {
@@ -1421,8 +1421,8 @@
       "gender": "25:75"
     },
     "image": {
-      "image": "/pokedex/images/040.png",
-      "thumbnail": "/pokedex/thumbnails/040.png"
+      "image": "/images/040.png",
+      "thumbnail": "/thumbnails/040.png"
     }
   },
   {
@@ -1456,8 +1456,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/041.png",
-      "thumbnail": "/pokedex/thumbnails/041.png"
+      "image": "/images/041.png",
+      "thumbnail": "/thumbnails/041.png"
     }
   },
   {
@@ -1494,8 +1494,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/042.png",
-      "thumbnail": "/pokedex/thumbnails/042.png"
+      "image": "/images/042.png",
+      "thumbnail": "/thumbnails/042.png"
     }
   },
   {
@@ -1529,8 +1529,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/043.png",
-      "thumbnail": "/pokedex/thumbnails/043.png"
+      "image": "/images/043.png",
+      "thumbnail": "/thumbnails/043.png"
     }
   },
   {
@@ -1570,8 +1570,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/044.png",
-      "thumbnail": "/pokedex/thumbnails/044.png"
+      "image": "/images/044.png",
+      "thumbnail": "/thumbnails/044.png"
     }
   },
   {
@@ -1605,8 +1605,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/045.png",
-      "thumbnail": "/pokedex/thumbnails/045.png"
+      "image": "/images/045.png",
+      "thumbnail": "/thumbnails/045.png"
     }
   },
   {
@@ -1641,8 +1641,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/046.png",
-      "thumbnail": "/pokedex/thumbnails/046.png"
+      "image": "/images/046.png",
+      "thumbnail": "/thumbnails/046.png"
     }
   },
   {
@@ -1677,8 +1677,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/047.png",
-      "thumbnail": "/pokedex/thumbnails/047.png"
+      "image": "/images/047.png",
+      "thumbnail": "/thumbnails/047.png"
     }
   },
   {
@@ -1713,8 +1713,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/048.png",
-      "thumbnail": "/pokedex/thumbnails/048.png"
+      "image": "/images/048.png",
+      "thumbnail": "/thumbnails/048.png"
     }
   },
   {
@@ -1749,8 +1749,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/049.png",
-      "thumbnail": "/pokedex/thumbnails/049.png"
+      "image": "/images/049.png",
+      "thumbnail": "/thumbnails/049.png"
     }
   },
   {
@@ -1785,8 +1785,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/050.png",
-      "thumbnail": "/pokedex/thumbnails/050.png"
+      "image": "/images/050.png",
+      "thumbnail": "/thumbnails/050.png"
     }
   },
   {
@@ -1821,8 +1821,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/051.png",
-      "thumbnail": "/pokedex/thumbnails/051.png"
+      "image": "/images/051.png",
+      "thumbnail": "/thumbnails/051.png"
     }
   },
   {
@@ -1857,8 +1857,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/052.png",
-      "thumbnail": "/pokedex/thumbnails/052.png"
+      "image": "/images/052.png",
+      "thumbnail": "/thumbnails/052.png"
     }
   },
   {
@@ -1893,8 +1893,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/053.png",
-      "thumbnail": "/pokedex/thumbnails/053.png"
+      "image": "/images/053.png",
+      "thumbnail": "/thumbnails/053.png"
     }
   },
   {
@@ -1929,8 +1929,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/054.png",
-      "thumbnail": "/pokedex/thumbnails/054.png"
+      "image": "/images/054.png",
+      "thumbnail": "/thumbnails/054.png"
     }
   },
   {
@@ -1965,8 +1965,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/055.png",
-      "thumbnail": "/pokedex/thumbnails/055.png"
+      "image": "/images/055.png",
+      "thumbnail": "/thumbnails/055.png"
     }
   },
   {
@@ -2001,8 +2001,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/056.png",
-      "thumbnail": "/pokedex/thumbnails/056.png"
+      "image": "/images/056.png",
+      "thumbnail": "/thumbnails/056.png"
     }
   },
   {
@@ -2037,8 +2037,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/057.png",
-      "thumbnail": "/pokedex/thumbnails/057.png"
+      "image": "/images/057.png",
+      "thumbnail": "/thumbnails/057.png"
     }
   },
   {
@@ -2073,8 +2073,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/058.png",
-      "thumbnail": "/pokedex/thumbnails/058.png"
+      "image": "/images/058.png",
+      "thumbnail": "/thumbnails/058.png"
     }
   },
   {
@@ -2109,8 +2109,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/059.png",
-      "thumbnail": "/pokedex/thumbnails/059.png"
+      "image": "/images/059.png",
+      "thumbnail": "/thumbnails/059.png"
     }
   },
   {
@@ -2145,8 +2145,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/060.png",
-      "thumbnail": "/pokedex/thumbnails/060.png"
+      "image": "/images/060.png",
+      "thumbnail": "/thumbnails/060.png"
     }
   },
   {
@@ -2187,8 +2187,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/061.png",
-      "thumbnail": "/pokedex/thumbnails/061.png"
+      "image": "/images/061.png",
+      "thumbnail": "/thumbnails/061.png"
     }
   },
   {
@@ -2223,8 +2223,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/062.png",
-      "thumbnail": "/pokedex/thumbnails/062.png"
+      "image": "/images/062.png",
+      "thumbnail": "/thumbnails/062.png"
     }
   },
   {
@@ -2259,8 +2259,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/063.png",
-      "thumbnail": "/pokedex/thumbnails/063.png"
+      "image": "/images/063.png",
+      "thumbnail": "/thumbnails/063.png"
     }
   },
   {
@@ -2295,8 +2295,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/064.png",
-      "thumbnail": "/pokedex/thumbnails/064.png"
+      "image": "/images/064.png",
+      "thumbnail": "/thumbnails/064.png"
     }
   },
   {
@@ -2331,8 +2331,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/065.png",
-      "thumbnail": "/pokedex/thumbnails/065.png"
+      "image": "/images/065.png",
+      "thumbnail": "/thumbnails/065.png"
     }
   },
   {
@@ -2367,8 +2367,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/066.png",
-      "thumbnail": "/pokedex/thumbnails/066.png"
+      "image": "/images/066.png",
+      "thumbnail": "/thumbnails/066.png"
     }
   },
   {
@@ -2403,8 +2403,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/067.png",
-      "thumbnail": "/pokedex/thumbnails/067.png"
+      "image": "/images/067.png",
+      "thumbnail": "/thumbnails/067.png"
     }
   },
   {
@@ -2439,8 +2439,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/068.png",
-      "thumbnail": "/pokedex/thumbnails/068.png"
+      "image": "/images/068.png",
+      "thumbnail": "/thumbnails/068.png"
     }
   },
   {
@@ -2474,8 +2474,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/069.png",
-      "thumbnail": "/pokedex/thumbnails/069.png"
+      "image": "/images/069.png",
+      "thumbnail": "/thumbnails/069.png"
     }
   },
   {
@@ -2512,8 +2512,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/070.png",
-      "thumbnail": "/pokedex/thumbnails/070.png"
+      "image": "/images/070.png",
+      "thumbnail": "/thumbnails/070.png"
     }
   },
   {
@@ -2547,8 +2547,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/071.png",
-      "thumbnail": "/pokedex/thumbnails/071.png"
+      "image": "/images/071.png",
+      "thumbnail": "/thumbnails/071.png"
     }
   },
   {
@@ -2583,8 +2583,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/072.png",
-      "thumbnail": "/pokedex/thumbnails/072.png"
+      "image": "/images/072.png",
+      "thumbnail": "/thumbnails/072.png"
     }
   },
   {
@@ -2619,8 +2619,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/073.png",
-      "thumbnail": "/pokedex/thumbnails/073.png"
+      "image": "/images/073.png",
+      "thumbnail": "/thumbnails/073.png"
     }
   },
   {
@@ -2655,8 +2655,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/074.png",
-      "thumbnail": "/pokedex/thumbnails/074.png"
+      "image": "/images/074.png",
+      "thumbnail": "/thumbnails/074.png"
     }
   },
   {
@@ -2691,8 +2691,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/075.png",
-      "thumbnail": "/pokedex/thumbnails/075.png"
+      "image": "/images/075.png",
+      "thumbnail": "/thumbnails/075.png"
     }
   },
   {
@@ -2727,8 +2727,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/076.png",
-      "thumbnail": "/pokedex/thumbnails/076.png"
+      "image": "/images/076.png",
+      "thumbnail": "/thumbnails/076.png"
     }
   },
   {
@@ -2763,8 +2763,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/077.png",
-      "thumbnail": "/pokedex/thumbnails/077.png"
+      "image": "/images/077.png",
+      "thumbnail": "/thumbnails/077.png"
     }
   },
   {
@@ -2799,8 +2799,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/078.png",
-      "thumbnail": "/pokedex/thumbnails/078.png"
+      "image": "/images/078.png",
+      "thumbnail": "/thumbnails/078.png"
     }
   },
   {
@@ -2840,8 +2840,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/079.png",
-      "thumbnail": "/pokedex/thumbnails/079.png"
+      "image": "/images/079.png",
+      "thumbnail": "/thumbnails/079.png"
     }
   },
   {
@@ -2876,8 +2876,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/080.png",
-      "thumbnail": "/pokedex/thumbnails/080.png"
+      "image": "/images/080.png",
+      "thumbnail": "/thumbnails/080.png"
     }
   },
   {
@@ -2912,8 +2912,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/081.png",
-      "thumbnail": "/pokedex/thumbnails/081.png"
+      "image": "/images/081.png",
+      "thumbnail": "/thumbnails/081.png"
     }
   },
   {
@@ -2951,8 +2951,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/082.png",
-      "thumbnail": "/pokedex/thumbnails/082.png"
+      "image": "/images/082.png",
+      "thumbnail": "/thumbnails/082.png"
     }
   },
   {
@@ -2987,8 +2987,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/083.png",
-      "thumbnail": "/pokedex/thumbnails/083.png"
+      "image": "/images/083.png",
+      "thumbnail": "/thumbnails/083.png"
     }
   },
   {
@@ -3023,8 +3023,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/084.png",
-      "thumbnail": "/pokedex/thumbnails/084.png"
+      "image": "/images/084.png",
+      "thumbnail": "/thumbnails/084.png"
     }
   },
   {
@@ -3059,8 +3059,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/085.png",
-      "thumbnail": "/pokedex/thumbnails/085.png"
+      "image": "/images/085.png",
+      "thumbnail": "/thumbnails/085.png"
     }
   },
   {
@@ -3095,8 +3095,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/086.png",
-      "thumbnail": "/pokedex/thumbnails/086.png"
+      "image": "/images/086.png",
+      "thumbnail": "/thumbnails/086.png"
     }
   },
   {
@@ -3131,8 +3131,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/087.png",
-      "thumbnail": "/pokedex/thumbnails/087.png"
+      "image": "/images/087.png",
+      "thumbnail": "/thumbnails/087.png"
     }
   },
   {
@@ -3167,8 +3167,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/088.png",
-      "thumbnail": "/pokedex/thumbnails/088.png"
+      "image": "/images/088.png",
+      "thumbnail": "/thumbnails/088.png"
     }
   },
   {
@@ -3203,8 +3203,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/089.png",
-      "thumbnail": "/pokedex/thumbnails/089.png"
+      "image": "/images/089.png",
+      "thumbnail": "/thumbnails/089.png"
     }
   },
   {
@@ -3239,8 +3239,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/090.png",
-      "thumbnail": "/pokedex/thumbnails/090.png"
+      "image": "/images/090.png",
+      "thumbnail": "/thumbnails/090.png"
     }
   },
   {
@@ -3275,8 +3275,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/091.png",
-      "thumbnail": "/pokedex/thumbnails/091.png"
+      "image": "/images/091.png",
+      "thumbnail": "/thumbnails/091.png"
     }
   },
   {
@@ -3307,8 +3307,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/092.png",
-      "thumbnail": "/pokedex/thumbnails/092.png"
+      "image": "/images/092.png",
+      "thumbnail": "/thumbnails/092.png"
     }
   },
   {
@@ -3339,8 +3339,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/093.png",
-      "thumbnail": "/pokedex/thumbnails/093.png"
+      "image": "/images/093.png",
+      "thumbnail": "/thumbnails/093.png"
     }
   },
   {
@@ -3371,8 +3371,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/094.png",
-      "thumbnail": "/pokedex/thumbnails/094.png"
+      "image": "/images/094.png",
+      "thumbnail": "/thumbnails/094.png"
     }
   },
   {
@@ -3407,8 +3407,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/095.png",
-      "thumbnail": "/pokedex/thumbnails/095.png"
+      "image": "/images/095.png",
+      "thumbnail": "/thumbnails/095.png"
     }
   },
   {
@@ -3443,8 +3443,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/096.png",
-      "thumbnail": "/pokedex/thumbnails/096.png"
+      "image": "/images/096.png",
+      "thumbnail": "/thumbnails/096.png"
     }
   },
   {
@@ -3479,8 +3479,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/097.png",
-      "thumbnail": "/pokedex/thumbnails/097.png"
+      "image": "/images/097.png",
+      "thumbnail": "/thumbnails/097.png"
     }
   },
   {
@@ -3515,8 +3515,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/098.png",
-      "thumbnail": "/pokedex/thumbnails/098.png"
+      "image": "/images/098.png",
+      "thumbnail": "/thumbnails/098.png"
     }
   },
   {
@@ -3551,8 +3551,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/099.png",
-      "thumbnail": "/pokedex/thumbnails/099.png"
+      "image": "/images/099.png",
+      "thumbnail": "/thumbnails/099.png"
     }
   },
   {
@@ -3587,8 +3587,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/100.png",
-      "thumbnail": "/pokedex/thumbnails/100.png"
+      "image": "/images/100.png",
+      "thumbnail": "/thumbnails/100.png"
     }
   },
   {
@@ -3623,8 +3623,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/101.png",
-      "thumbnail": "/pokedex/thumbnails/101.png"
+      "image": "/images/101.png",
+      "thumbnail": "/thumbnails/101.png"
     }
   },
   {
@@ -3658,8 +3658,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/102.png",
-      "thumbnail": "/pokedex/thumbnails/102.png"
+      "image": "/images/102.png",
+      "thumbnail": "/thumbnails/102.png"
     }
   },
   {
@@ -3693,8 +3693,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/103.png",
-      "thumbnail": "/pokedex/thumbnails/103.png"
+      "image": "/images/103.png",
+      "thumbnail": "/thumbnails/103.png"
     }
   },
   {
@@ -3729,8 +3729,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/104.png",
-      "thumbnail": "/pokedex/thumbnails/104.png"
+      "image": "/images/104.png",
+      "thumbnail": "/thumbnails/104.png"
     }
   },
   {
@@ -3765,8 +3765,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/105.png",
-      "thumbnail": "/pokedex/thumbnails/105.png"
+      "image": "/images/105.png",
+      "thumbnail": "/thumbnails/105.png"
     }
   },
   {
@@ -3801,8 +3801,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/106.png",
-      "thumbnail": "/pokedex/thumbnails/106.png"
+      "image": "/images/106.png",
+      "thumbnail": "/thumbnails/106.png"
     }
   },
   {
@@ -3837,8 +3837,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/107.png",
-      "thumbnail": "/pokedex/thumbnails/107.png"
+      "image": "/images/107.png",
+      "thumbnail": "/thumbnails/107.png"
     }
   },
   {
@@ -3873,8 +3873,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/108.png",
-      "thumbnail": "/pokedex/thumbnails/108.png"
+      "image": "/images/108.png",
+      "thumbnail": "/thumbnails/108.png"
     }
   },
   {
@@ -3905,8 +3905,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/109.png",
-      "thumbnail": "/pokedex/thumbnails/109.png"
+      "image": "/images/109.png",
+      "thumbnail": "/thumbnails/109.png"
     }
   },
   {
@@ -3937,8 +3937,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/110.png",
-      "thumbnail": "/pokedex/thumbnails/110.png"
+      "image": "/images/110.png",
+      "thumbnail": "/thumbnails/110.png"
     }
   },
   {
@@ -3973,8 +3973,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/111.png",
-      "thumbnail": "/pokedex/thumbnails/111.png"
+      "image": "/images/111.png",
+      "thumbnail": "/thumbnails/111.png"
     }
   },
   {
@@ -4012,8 +4012,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/112.png",
-      "thumbnail": "/pokedex/thumbnails/112.png"
+      "image": "/images/112.png",
+      "thumbnail": "/thumbnails/112.png"
     }
   },
   {
@@ -4051,8 +4051,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/113.png",
-      "thumbnail": "/pokedex/thumbnails/113.png"
+      "image": "/images/113.png",
+      "thumbnail": "/thumbnails/113.png"
     }
   },
   {
@@ -4087,8 +4087,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/114.png",
-      "thumbnail": "/pokedex/thumbnails/114.png"
+      "image": "/images/114.png",
+      "thumbnail": "/thumbnails/114.png"
     }
   },
   {
@@ -4123,8 +4123,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/115.png",
-      "thumbnail": "/pokedex/thumbnails/115.png"
+      "image": "/images/115.png",
+      "thumbnail": "/thumbnails/115.png"
     }
   },
   {
@@ -4159,8 +4159,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/116.png",
-      "thumbnail": "/pokedex/thumbnails/116.png"
+      "image": "/images/116.png",
+      "thumbnail": "/thumbnails/116.png"
     }
   },
   {
@@ -4198,8 +4198,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/117.png",
-      "thumbnail": "/pokedex/thumbnails/117.png"
+      "image": "/images/117.png",
+      "thumbnail": "/thumbnails/117.png"
     }
   },
   {
@@ -4234,8 +4234,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/118.png",
-      "thumbnail": "/pokedex/thumbnails/118.png"
+      "image": "/images/118.png",
+      "thumbnail": "/thumbnails/118.png"
     }
   },
   {
@@ -4270,8 +4270,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/119.png",
-      "thumbnail": "/pokedex/thumbnails/119.png"
+      "image": "/images/119.png",
+      "thumbnail": "/thumbnails/119.png"
     }
   },
   {
@@ -4306,8 +4306,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/120.png",
-      "thumbnail": "/pokedex/thumbnails/120.png"
+      "image": "/images/120.png",
+      "thumbnail": "/thumbnails/120.png"
     }
   },
   {
@@ -4342,8 +4342,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/121.png",
-      "thumbnail": "/pokedex/thumbnails/121.png"
+      "image": "/images/121.png",
+      "thumbnail": "/thumbnails/121.png"
     }
   },
   {
@@ -4378,8 +4378,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/122.png",
-      "thumbnail": "/pokedex/thumbnails/122.png"
+      "image": "/images/122.png",
+      "thumbnail": "/thumbnails/122.png"
     }
   },
   {
@@ -4414,8 +4414,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/123.png",
-      "thumbnail": "/pokedex/thumbnails/123.png"
+      "image": "/images/123.png",
+      "thumbnail": "/thumbnails/123.png"
     }
   },
   {
@@ -4450,8 +4450,8 @@
       "gender": "0:100"
     },
     "image": {
-      "image": "/pokedex/images/124.png",
-      "thumbnail": "/pokedex/thumbnails/124.png"
+      "image": "/images/124.png",
+      "thumbnail": "/thumbnails/124.png"
     }
   },
   {
@@ -4488,8 +4488,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/125.png",
-      "thumbnail": "/pokedex/thumbnails/125.png"
+      "image": "/images/125.png",
+      "thumbnail": "/thumbnails/125.png"
     }
   },
   {
@@ -4526,8 +4526,8 @@
       "gender": "75:25"
     },
     "image": {
-      "image": "/pokedex/images/126.png",
-      "thumbnail": "/pokedex/thumbnails/126.png"
+      "image": "/images/126.png",
+      "thumbnail": "/thumbnails/126.png"
     }
   },
   {
@@ -4562,8 +4562,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/127.png",
-      "thumbnail": "/pokedex/thumbnails/127.png"
+      "image": "/images/127.png",
+      "thumbnail": "/thumbnails/127.png"
     }
   },
   {
@@ -4598,8 +4598,8 @@
       "gender": "100:0"
     },
     "image": {
-      "image": "/pokedex/images/128.png",
-      "thumbnail": "/pokedex/thumbnails/128.png"
+      "image": "/images/128.png",
+      "thumbnail": "/thumbnails/128.png"
     }
   },
   {
@@ -4633,8 +4633,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/129.png",
-      "thumbnail": "/pokedex/thumbnails/129.png"
+      "image": "/images/129.png",
+      "thumbnail": "/thumbnails/129.png"
     }
   },
   {
@@ -4668,8 +4668,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/130.png",
-      "thumbnail": "/pokedex/thumbnails/130.png"
+      "image": "/images/130.png",
+      "thumbnail": "/thumbnails/130.png"
     }
   },
   {
@@ -4704,8 +4704,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/131.png",
-      "thumbnail": "/pokedex/thumbnails/131.png"
+      "image": "/images/131.png",
+      "thumbnail": "/thumbnails/131.png"
     }
   },
   {
@@ -4739,8 +4739,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/132.png",
-      "thumbnail": "/pokedex/thumbnails/132.png"
+      "image": "/images/132.png",
+      "thumbnail": "/thumbnails/132.png"
     }
   },
   {
@@ -4786,8 +4786,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/133.png",
-      "thumbnail": "/pokedex/thumbnails/133.png"
+      "image": "/images/133.png",
+      "thumbnail": "/thumbnails/133.png"
     }
   },
   {
@@ -4821,8 +4821,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/134.png",
-      "thumbnail": "/pokedex/thumbnails/134.png"
+      "image": "/images/134.png",
+      "thumbnail": "/thumbnails/134.png"
     }
   },
   {
@@ -4856,8 +4856,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/135.png",
-      "thumbnail": "/pokedex/thumbnails/135.png"
+      "image": "/images/135.png",
+      "thumbnail": "/thumbnails/135.png"
     }
   },
   {
@@ -4891,8 +4891,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/136.png",
-      "thumbnail": "/pokedex/thumbnails/136.png"
+      "image": "/images/136.png",
+      "thumbnail": "/thumbnails/136.png"
     }
   },
   {
@@ -4927,8 +4927,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/137.png",
-      "thumbnail": "/pokedex/thumbnails/137.png"
+      "image": "/images/137.png",
+      "thumbnail": "/thumbnails/137.png"
     }
   },
   {
@@ -4963,8 +4963,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/138.png",
-      "thumbnail": "/pokedex/thumbnails/138.png"
+      "image": "/images/138.png",
+      "thumbnail": "/thumbnails/138.png"
     }
   },
   {
@@ -4999,8 +4999,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/139.png",
-      "thumbnail": "/pokedex/thumbnails/139.png"
+      "image": "/images/139.png",
+      "thumbnail": "/thumbnails/139.png"
     }
   },
   {
@@ -5035,8 +5035,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/140.png",
-      "thumbnail": "/pokedex/thumbnails/140.png"
+      "image": "/images/140.png",
+      "thumbnail": "/thumbnails/140.png"
     }
   },
   {
@@ -5071,8 +5071,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/141.png",
-      "thumbnail": "/pokedex/thumbnails/141.png"
+      "image": "/images/141.png",
+      "thumbnail": "/thumbnails/141.png"
     }
   },
   {
@@ -5107,8 +5107,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/142.png",
-      "thumbnail": "/pokedex/thumbnails/142.png"
+      "image": "/images/142.png",
+      "thumbnail": "/thumbnails/142.png"
     }
   },
   {
@@ -5143,8 +5143,8 @@
       "gender": "87.5:12.5"
     },
     "image": {
-      "image": "/pokedex/images/143.png",
-      "thumbnail": "/pokedex/thumbnails/143.png"
+      "image": "/images/143.png",
+      "thumbnail": "/thumbnails/143.png"
     }
   },
   {
@@ -5178,8 +5178,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/144.png",
-      "thumbnail": "/pokedex/thumbnails/144.png"
+      "image": "/images/144.png",
+      "thumbnail": "/thumbnails/144.png"
     }
   },
   {
@@ -5213,8 +5213,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/145.png",
-      "thumbnail": "/pokedex/thumbnails/145.png"
+      "image": "/images/145.png",
+      "thumbnail": "/thumbnails/145.png"
     }
   },
   {
@@ -5248,8 +5248,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/146.png",
-      "thumbnail": "/pokedex/thumbnails/146.png"
+      "image": "/images/146.png",
+      "thumbnail": "/thumbnails/146.png"
     }
   },
   {
@@ -5283,8 +5283,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/147.png",
-      "thumbnail": "/pokedex/thumbnails/147.png"
+      "image": "/images/147.png",
+      "thumbnail": "/thumbnails/147.png"
     }
   },
   {
@@ -5318,8 +5318,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/148.png",
-      "thumbnail": "/pokedex/thumbnails/148.png"
+      "image": "/images/148.png",
+      "thumbnail": "/thumbnails/148.png"
     }
   },
   {
@@ -5353,8 +5353,8 @@
       "gender": "50:50"
     },
     "image": {
-      "image": "/pokedex/images/149.png",
-      "thumbnail": "/pokedex/thumbnails/149.png"
+      "image": "/images/149.png",
+      "thumbnail": "/thumbnails/149.png"
     }
   },
   {
@@ -5388,8 +5388,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/150.png",
-      "thumbnail": "/pokedex/thumbnails/150.png"
+      "image": "/images/150.png",
+      "thumbnail": "/thumbnails/150.png"
     }
   },
   {
@@ -5420,8 +5420,8 @@
       "gender": "Genderless"
     },
     "image": {
-      "image": "/pokedex/images/151.png",
-      "thumbnail": "/pokedex/thumbnails/151.png"
+      "image": "/images/151.png",
+      "thumbnail": "/thumbnails/151.png"
     }
   }
 ]
